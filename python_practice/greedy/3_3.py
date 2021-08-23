@@ -2,7 +2,6 @@
 """
 Spyder Editor
 
-This is a temporary script file.
 """
 
 # 이것이 코딩 테스트다 - 나동빈
