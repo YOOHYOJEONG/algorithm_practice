@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 21 21:15:17 2021
-
-@author: user
-"""
 
 # 이것이 코딩 테스트다 - 나동빈
 # chapter 03 Greedy
