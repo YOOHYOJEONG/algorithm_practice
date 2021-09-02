@@ -50,11 +50,55 @@ dx = [-1,0,1,0]
 dy = [0, 1, 0, -1]
 
 
+#왼쪽으로 회전
+def turn_left() :
+    global direction 
+    direction -= 1
+    if direction == -1 :
+        direction = 3
+        
 
-'''
+#시뮬레이션 시작
+count = 1
+turn_time = 0
 
+while True :
+    
+    #왼쪽 회전
+    turn_left()
+    nx = x + dx[direction]
+    ny = y + dy[direction]
+    
+    #회전 후 정면에 안간 칸 존재 시
+    if d[nx][ny] == 0 and array[nx][ny] == 0 :
+        d[nx][ny] = 1
+        x = nx
+        y = ny
+        
+        count += 1
+        turn_time = 0
+        continue
 
-not completed
+    #회전 후 안간 칸 없거나 바다일 때
+    else :
+        turn_time += 1
+       
+        
+    #네 방향 모두 갈 수 없을 때
+    if turn_time == 4 :
+        nx = x - dx[direction]
+        ny = y - dy[direction]
+        
+        #뒤로 이동 가능할 때
+        if array[nx][ny] == 0 :
+            x = nx
+            y = ny
+        
+        #뒤가 바다일 때
+        else :
+            break
+        
+        trun_time = 0
+        
 
-
-'''
+print(count)
