@@ -6,3 +6,4 @@
 | :--: | :--: |   
 | Greedy | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |   
 | Implementation | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |      
+| DFS/BFS | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/DFS%2CBFS) |   
