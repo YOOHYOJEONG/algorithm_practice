@@ -5,7 +5,7 @@
 ---    
 | Chapter | Algorithm | Link |   
 | :--: | :--: | :--: |      
-| 03 | Greedy | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |   
+| 03 | Greedy | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/greedy) |   
 | 04 | Implementation | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |      
 | 05 | DFS/BFS | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/DFS%2CBFS) |   
 
