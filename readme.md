@@ -16,3 +16,4 @@
 | Date | Algorithm | Content | Link | Check |   
 | :--: | :--: | :--: | :--: | :--: |   
 | 21.10.01 | - | Skill Check Level 01 | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/programmers/skill_check/level_01) | ✔ |   
+| 21.10.08 | hash | Level 01 | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/programmers/Level01_practice) | ✔ |    
