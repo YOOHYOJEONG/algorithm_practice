@@ -8,6 +8,8 @@
 | 03 | Greedy | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/greedy) |   
 | 04 | Implementation | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |      
 | 05 | DFS/BFS | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/DFS%2CBFS) |   
+| 06 | Sorting | [🌳](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Sorting)   
+
 
 ---
 ## 프로그래머스 문제 풀이
