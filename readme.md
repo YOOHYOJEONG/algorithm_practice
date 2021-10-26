@@ -22,7 +22,7 @@
 | 21.10.08 | hash | [Level 01 - 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) | ✔ |    
 | 21.10.22 | stack | [Level 01 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)  | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0.py) | ✔ |   
 | 21.10.25 | 완전탐색 | [Level 01 - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) | ✔ |    
-| 21.10.26 | 정렬 | [Level 01 - K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |   |   |   
+| 21.10.26 | 정렬 | [Level 01 - K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/k%EB%B2%88%EC%A7%B8%EC%88%98.py)  | ✔ |   
 | 21.10.27 | 연습문제 | [Level 01 - 2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) |   |   |    
 | 21.10.28 | 연습문제 | [Level 01 - 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) |   |   |   
 | 21.10.29 | 연습문제 | [Level 01 - 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) |   |   |   
