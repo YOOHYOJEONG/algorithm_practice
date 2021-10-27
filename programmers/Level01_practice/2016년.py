@@ -50,7 +50,7 @@ def solution(a, b):
     #1월일 때 
     if a == 1 :
         count = b -1
-        answer = day[count&7]
+        answer = day[count%7]
         
     #1월 아닐 때
     else :
