@@ -31,10 +31,10 @@ def solution(numbers, hand):
     
     for num in numbers :
         
-        if num in [1,4,7] :
+        if num == 1 or num == 4 or num == 7 :
             answer += 'L'
             left = pad[str(num)]
-        elif num in [3,6,9] :
+        elif num == 3 or num == 6 or num == 9 :
             answer += 'R'
             right = pad[str(num)]
         else :
