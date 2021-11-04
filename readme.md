@@ -36,6 +36,7 @@
 | 21.11.02 | 2021 카카오 블라인드 채용 | [Levle 01 - 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/109) |    
 | 21.11.03 | 연습문제 | [Level 01 - 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94.py) | ✔ | - |     
 | 21.11.04 | 연습문제 | [Level 01 - 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/p%EC%99%80y%EA%B0%9C%EC%88%98.py) | ✔ | - |     
+| 21.11.05 | 2021 카카오 채용연계형 인턴십 | [Level 01 - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) |  |  |  |    
 | 21.11.06 | 연습문제 | [Level 01 - 문자열 내림차순으로 배치](https://programmers.co.kr/learn/courses/30/lessons/12917) |   |   |   
 | 21.11.07 | 연습문제 | [Level 01 - 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) |   |   |    
 | 21.11.08 | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
