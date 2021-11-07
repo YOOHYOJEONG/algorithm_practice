@@ -38,6 +38,7 @@
 | 21.11.06 | 연습문제 | [Level 01 - 문자열 내림차순으로 배치](https://programmers.co.kr/learn/courses/30/lessons/12917) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/112) |    
 |21.11.07 | Iterations | [Lesson 01 - binary gap](https://app.codility.com/programmers/lessons/1-iterations/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/binarygap.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/114) |    
 | 21.11.07 | 문자열 체크 | [Level 01 - 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B8%B0%EB%B3%B8.py) | ✔ | - |     
+| 21.11.08 | arrays | [Lesson 02 - cyclicrotation](https://app.codility.com/programmers/lessons/2-arrays/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/cyclicrotation.py) | ✔ |   |    
 | 21.11.08 | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
 | 21.11.09 | 연습문제 | [Level 01 - 짝슈와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |   |   |    
 | 21.11.10 | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |   |   |    
