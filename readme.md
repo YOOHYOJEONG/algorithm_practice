@@ -40,25 +40,25 @@
 | 21.11.07 | 문자열 체크 | [Level 01 - 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B8%B0%EB%B3%B8.py) | ✔ | - |     
 | 21.11.08 | arrays | [Lesson 02 - cyclicrotation](https://app.codility.com/programmers/lessons/2-arrays/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/cyclicrotation.py) | ✔ |   |    
 | 21.11.09 | arrays | [Lesson 02 - Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/oddoccurrences.py) | ✔ |  |    
-| 21.11.08 | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
-| 21.11.09 | 연습문제 | [Level 01 - 짝슈와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |   |   |    
-| 21.11.10 | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |   |   |    
-| 21.11.11 | 연습문제 | [Level 01 - 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |   |   |      
-| 21.11.13 | 연습문제 | [Level 01 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) |   |   |    
-| 21.11.14 | 연습문제 | [Level 01 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |   |   |    
-| 21.11.15 | 연습문제 | [Level 01 - 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |   |   |    
-| 21.11.16 | 연습문제 | [Level 01 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |   |   |    
-| 21.11.17 | 연습문제 | [Level 01 - 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |   |   |    
-| 21.11.18 | 연습문제 | [Level 01 - 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |   |   |    
-|21.11.19 | 연습문제 | [Level 01 - 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |   |   |    
-| 21.11.20 | 연습문제 | [Level 01 - 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |   |   |    
-| 21.11.21 | 연습문제 | [Level 01 - 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |   |   |    
-| 21.11.22 | 연습문제 | [Level 01 - 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |   |   |    
-| 21.11.23 | 연습문제 | [Level 01 - 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |   |   |    
-| 21.11.24 | 연습문제 | [Level 01 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |   |   |    
-| 21.11.25 | 연습문제 | [Levle 01 - 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |   |   |    
-| 21.11.26 | 연습문제 | [Level 01 - x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |   |   |    
-| 21.11.27 | 연습문제 | [Level 01 - 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |   |   |    
-| 21.11.28 | stack/que | [Level 02 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |   |   |    
-| 21.11.29 | hash | [Level 02 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |   |   |    
-| 21.11.30 | 깊이/너비 우선 탐색 | [Level 02 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |   |   |    
+|  | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
+|  | 연습문제 | [Level 01 - 짝슈와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |   |   |    
+|  | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |   |   |    
+|  | 연습문제 | [Level 01 - 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |   |   |      
+|  | 연습문제 | [Level 01 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) |   |   |    
+|  | 연습문제 | [Level 01 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |   |   |    
+|  | 연습문제 | [Level 01 - 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |   |   |    
+|  | 연습문제 | [Level 01 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |   |   |    
+|  | 연습문제 | [Level 01 - 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |   |   |    
+|  | 연습문제 | [Level 01 - 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |   |   |    
+|  | 연습문제 | [Level 01 - 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) |   |   |    
+|  | 연습문제 | [Level 01 - 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) |   |   |    
+|  | 연습문제 | [Level 01 - 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) |   |   |    
+|  | 연습문제 | [Level 01 - 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) |   |   |    
+|  | 연습문제 | [Level 01 - 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) |   |   |    
+|  | 연습문제 | [Level 01 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |   |   |    
+|  | 연습문제 | [Levle 01 - 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |   |   |    
+|  | 연습문제 | [Level 01 - x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |   |   |    
+|  | 연습문제 | [Level 01 - 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |   |   |    
+|  | stack/que | [Level 02 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |   |   |    
+|  | hash | [Level 02 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |   |   |    
+|  | 깊이/너비 우선 탐색 | [Level 02 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |   |   |    
