@@ -41,6 +41,7 @@
 | 21.11.08 | arrays | [Lesson 02 - cyclicrotation](https://app.codility.com/programmers/lessons/2-arrays/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/cyclicrotation.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/116) |    
 | 21.11.09 | arrays | [Lesson 02 - Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/oddoccurrences.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/116) |   
 | 21.11.10 | Time Complexity | [Lesson 03 - frog jump](https://app.codility.com/programmers/lessons/3-time_complexity/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/fogjump.py) | ✔ |  |    
+| 21.11.11 | Time Complexity | [Lesson 03 - PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/missingelem.py) | ✔ |  |    
 |  | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
 |  | 연습문제 | [Level 01 - 짝슈와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |   |   |    
 |  | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |   |   |    
