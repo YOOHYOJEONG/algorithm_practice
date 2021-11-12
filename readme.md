@@ -43,11 +43,11 @@
 | 21.11.10 | Time Complexity | [Lesson 03 - frog jump](https://app.codility.com/programmers/lessons/3-time_complexity/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/fogjump.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/117) |    
 | 21.11.11 | Time Complexity | [Lesson 03 - PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/missingelem.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/118) |    
 |21.11.11 | Time Complexity | [Lesson 03 - TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/tapeequilibrium.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/119) |    
-|  | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) |   |   |    
-|  | 연습문제 | [Level 01 - 짝슈와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |   |   |    
-|  | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |   |   |    
-|  | 연습문제 | [Level 01 - 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) |   |   |      
-|  | 연습문제 | [Level 01 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) |   |   |    
+| 21.11.12 | 연습문제 | [Level 01 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%95%BD%EC%88%98%EC%B4%9D%ED%95%A9.py) | ✔ | - |      
+| 2021.11.12 | 연습문제 | [Level 01 - 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%A7%9D%EC%88%98%ED%99%80%EC%88%98.py) | ✔ | - |      
+| 2021.11.12 | 연습문제 | [Levle 01 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%B0%B0%EC%97%B4%ED%8F%89%EA%B7%A0.py) | ✔ | - |      
+| 2021.11.12 | 연습문제 | [Level 01 - 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0.py) | ✔ | - |        
+| 2021.11.12 | 연습문제 | [Level 01 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%A7%98%EB%8C%80%EB%A1%9C%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A0%95%EB%A0%AC.py) | ✔ | [📑]() |      
 |  | 연습문제 | [Level 01 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) |   |   |    
 |  | 연습문제 | [Level 01 - 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |   |   |    
 |  | 연습문제 | [Level 01 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |   |   |    
