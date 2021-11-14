@@ -50,7 +50,9 @@
 | 21.11.12 | 연습문제 | [Level 01 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%A7%98%EB%8C%80%EB%A1%9C%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A0%95%EB%A0%AC.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/120) |      
 | 21.11.12 | 연습문제 | [Level 01 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/121) |      
 | 21.11.12 | 완전 탐색 | [Level 02 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level02_practice/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/122) |    
-| 21.11.12 | 완전 탐색 | [Level 02 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level02_practice/%EC%B9%B4%ED%8E%AB.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/123) | 
+| 21.11.12 | 완전 탐색 | [Level 02 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level02_practice/%EC%B9%B4%ED%8E%AB.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/123) |   
+| 21.11.14 | combinations | [Level 01 - 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | ✔ | [📑]() |    
+| 21.11.14 | 연습문제 | [Level 01 - 로또 최저 순위 최고 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%A1%9C%EB%98%90%EC%88%9C%EC%9C%84.py) | ✔ | [📑]() |    
 |  | 연습문제 | [Level 01 - 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) |   |   |    
 |  | 연습문제 | [Level 01 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) |   |   |    
 |  | 연습문제 | [Level 01 - 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) |   |   |    
@@ -63,7 +65,6 @@
 |  | 연습문제 | [Level 01 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |   |   |    
 |  | 연습문제 | [Levle 01 - 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |   |   |    
 |  | 연습문제 | [Level 01 - x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |   |   |    
-|  | 연습문제 | [Level 01 - 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) |   |   |    
 |  | stack/que | [Level 02 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |   |   |    
 |  | hash | [Level 02 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |   |   |    
 |  | 깊이/너비 우선 탐색 | [Level 02 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |   |   |    
