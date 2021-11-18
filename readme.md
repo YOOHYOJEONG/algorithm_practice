@@ -14,9 +14,10 @@
 ---
 
 # 💻 매일 매일 코테 문제 풀기 챌린지 진행 중
-| Date | Classification | Content | Code | Check | Blog |   
-| :--: | :--: | :--: | :--: | :--: | :--: |   
-| 21.10.01 | Skill Check | Skill Check Level 01 | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/programmers/skill_check/level_01) | ✔ | - |   
+### Site : P-Programmers, C-Codility, B-Baekjoon
+| Check | Date | Site | Classification | Content | Code | Blog |   
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |     
+| ✔ | 21.10.01 | P | Skill Check | Skill Check Level 01 | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/programmers/skill_check/level_01) | - |   
 | 21.10.08 | hash | [Level 01 - 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/89?category=928550) |    
 | 21.10.22 | stack | [Level 01 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)  | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/94?category=928550) |    
 | 21.10.25 | 완전탐색 | [Level 01 - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py) | ✔ | [📑](https://iambeginnerdeveloper.tistory.com/97?category=928550) |    
