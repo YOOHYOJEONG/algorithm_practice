@@ -65,9 +65,8 @@
 | ✔ | 21.11.18 | P | 연습문제 | [Level 01 - 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.py) | [📑](https://iambeginnerdeveloper.tistory.com/132)  |    
 | ✔ | 21.11.18 | P | 정렬 | [Level 02 - 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level02_practice/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.py) | [📑](https://iambeginnerdeveloper.tistory.com/134) |     
 | ✔ | 21.11.19 | P | DFS/BFS | [Level 02 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level02_practice/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.py) | [📑](https://iambeginnerdeveloper.tistory.com/137) |     
-|  |  | P | 연습문제 | [Level 01 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |   |   |    
+| ✔ | 21.11.20 | P | 연습문제 | [Level 01 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.py) | [📑]() |     
 |  |  | P | 연습문제 | [Levle 01 - 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) |   |   |    
 |  |  | P | 연습문제 | [Level 01 - x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |   |   |    
 |  |  | P | stack/que | [Level 02 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |   |   |    
 |  |  | P | hash | [Level 02 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |   |   |    
-|  |  | P | 깊이/너비 우선 탐색 | [Level 02 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |   |   |    
