@@ -77,3 +77,6 @@
 | ✔ | 21.11.27 | P | 위클리 챌린지 | [Level 01 - 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1.py) | - |    
 | ✔ | 21.11.28 | P | Summer/Winter Coding(~2018) | [Level 01 - 예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%98%88%EC%82%B0.py) | [📑](https://iambeginnerdeveloper.tistory.com/162) |      
 | ✔ | 21.11.29 | P | 찾아라 프로그래밍 마에스터 | [Level 01 - 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%ED%8F%B0%EC%BC%93%EB%AA%AC.py) | [📑](https://iambeginnerdeveloper.tistory.com/164) |    
+| ✔ | 21.12.01 | P | 월간 코드 챌린지 시즌2 | [Level 01 - 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%95%BD%EC%88%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.py) | - |    
+
+ 
