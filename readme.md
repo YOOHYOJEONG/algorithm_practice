@@ -81,5 +81,5 @@
 | ✔ | 21.12.02 | P | 월간 코드 챌린지 시즌1 | [Level 01 - 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/3%EC%A7%84%EC%88%98%EB%92%A4%EC%A7%91%EA%B8%B0.py) | [📑](https://iambeginnerdeveloper.tistory.com/166) |    
 | ✔ | 21.12.03 | P | 2019 KAKAO BLIND RECRUITMENT | [Level 01 - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py) | [📑](https://iambeginnerdeveloper.tistory.com/167) |    
 | ✔ | 21.12.04 | P | 위클리 챌린지 | [Level 01 - 최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/programmers/Level01_practice/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py) | [📑](https://iambeginnerdeveloper.tistory.com/168) |    
-
+| ✔ | 21.12.07 | C | Counting Elements | [Lesson 04 - frogriverone](https://app.codility.com/programmers/lessons/4-counting_elements/) | [💻](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/codility/frogriverone.py) | - |    
 
