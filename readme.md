@@ -1,6 +1,6 @@
 # 알고리즘 이론 및 예제 공부
-## 이것이 코딩 테스트다 with 파이썬 - 나동빈
-![사진](https://github.com/YOOHYOJEONG/algorithm_practice/blob/master/images/image.jpg?raw=true)   
+   
+### 이것이 코딩 테스트다 with 파이썬 - 나동빈
 ---    
 | Chapter | Algorithm | Link |   
 | :--: | :--: | :--: |      
@@ -8,10 +8,8 @@
 | 04 | Implementation | [📂](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Implementation) |      
 | 05 | DFS/BFS | [📂](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/DFS%2CBFS) |   
 | 06 | Sorting | [📂](https://github.com/YOOHYOJEONG/algorithm_practice/tree/master/python_practice/Sorting)   
-
-      
-       
-       
+   
+    
 ---
 
 # 💻 꾸준히 코테 문제 푸는 중
